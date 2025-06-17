@@ -1,0 +1,8 @@
+streamlit
+geopandas
+xarray
+rioxarray
+matplotlib
+cartopy
+shapely
+pyproj
